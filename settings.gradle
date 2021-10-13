@@ -1,0 +1,3 @@
+rootProject.name = "Coingecko"
+include ':app'
+include ':coingecko'
